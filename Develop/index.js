@@ -17,6 +17,11 @@ const questions = [
   },
   {
     type: 'input',
+    message: "What are the steps required for installation?",
+    name: 'installation',
+  },
+  {
+    type: 'input',
     message: "What are the instructions for use?",
     name: 'usage',
   },
