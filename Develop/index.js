@@ -66,7 +66,7 @@ async function init() {
   try {
     const answers = await inquirer.prompt(questions);
     const markdown = generateMarkdown(answers);
-    writeToFile('README.md', markdown);
+    writeToFile('generatedREADME.md', markdown);
   } catch (error) {
     console.error('An error occurred during the README generation:', error);
   }
