@@ -7,8 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Video](#video)
-- [Video] (#video)
-- [Screenshot] (#Screenshot) 
+- [Screenshot](#screenshot) 
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -46,11 +45,11 @@ After all installs are complete, run "node index.js" in the termial. A series of
 
 ## Video
 
-[Recording] (https://drive.google.com/file/d/1c5ryalDqy7WDZ4Do-p5cAnpOPwg-QK4D/preview)
+[Recording](https://drive.google.com/file/d/1c5ryalDqy7WDZ4Do-p5cAnpOPwg-QK4D/preview)
 
 ## Screenshot
 
-![paste-image](assets/images/README-screenshot.png)
+![paste-image](/assets/images/README-screenshot.png)
 
 
 ## License
