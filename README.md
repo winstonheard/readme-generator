@@ -6,6 +6,8 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video] (#video)
+- [Screenshot] (#Screenshot) 
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -41,6 +43,14 @@ After all installs are complete, run "node index.js" in the termial. A series of
 - WHEN I click on the links in the Table of Contents
 - THEN I am taken to the corresponding section of the README
 
+## Video
+
+[Recording] (https://drive.google.com/file/d/1c5ryalDqy7WDZ4Do-p5cAnpOPwg-QK4D/preview)
+
+## Screenshot
+
+![paste-image](assets/images/README-screenshot.png)
+
 
 ## License
 
@@ -53,11 +63,11 @@ For more information, please visit [https://opensource.org/licenses/MIT](https:/
 
 ## Contributing
 
-test
+Please contact via email for any suggestions for improvements. 
 
 ## Tests
 
-test
+n/a
 
 ## Questions
 
