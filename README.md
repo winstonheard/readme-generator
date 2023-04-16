@@ -6,6 +6,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video](#video)
 - [Video] (#video)
 - [Screenshot] (#Screenshot) 
 - [Contributing](#contributing)
