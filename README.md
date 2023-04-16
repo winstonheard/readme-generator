@@ -49,7 +49,7 @@ After all installs are complete, run "node index.js" in the termial. A series of
 
 ## Screenshot
 
-![paste-image](/assets/images/README-screenshot.png)
+![paste-image](README-screenshot.png)
 
 
 ## License
